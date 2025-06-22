@@ -1,0 +1,9 @@
+dask[complete]
+dask-ml
+scikit-learn
+pandas
+joblib
+xgboost
+fastapi
+uvicorn
+
